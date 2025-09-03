@@ -9313,6 +9313,11 @@ points-on-curve@0.2.0, points-on-curve@^0.2.0:
   resolved "https://registry.npmjs.org/points-on-curve/-/points-on-curve-0.2.0.tgz"
   integrity sha512-0mYKnYYe9ZcqMCWhUjItv/oHjvgEsfKvnUTg8sAtnHr3GVy7rGkXCb6d5cSyqrWqL4k81b9CPg3urd+T7aop3A==
 
+points-on-curve@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/points-on-curve/-/points-on-curve-1.0.1.tgz#03fcdc08e48e3bfdc7e8bd1d7ccd4d5f11e132c6"
+  integrity sha512-3nmX4/LIiyuwGLwuUrfhTlDeQFlAhi7lyK/zcRNGhalwapDWgAGR82bUpmn2mA03vII3fvNCG8jAONzKXwpxAg==
+
 points-on-path@^0.2.1:
   version "0.2.1"
   resolved "https://registry.npmjs.org/points-on-path/-/points-on-path-0.2.1.tgz"
